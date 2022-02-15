@@ -1,4 +1,4 @@
-module github.com/zhaoyi0113
+module github.com/zhaoyi0113/subgraph1
 
 go 1.17
 

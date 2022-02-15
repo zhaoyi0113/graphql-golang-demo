@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/zhaoyi0113/graph/model"
+import "github.com/zhaoyi0113/subgraph1/graph/model"
 
 // This file will not be regenerated automatically.
 //
